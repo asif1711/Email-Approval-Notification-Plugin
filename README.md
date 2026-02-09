@@ -8,8 +8,7 @@ The system is **database-driven**, **idempotent**, and **integration-ready**, de
 ---
 **Version:** 0.1  
 **Author:** Nurul Islam  
-**Dependencies:** WordPress 6.9 · Nginx · PHP 7.4.30 · Contact Form 7 · Dompdf · MySQL DB · Mailpit
----
+**Dependencies:** WordPress 6.9 · Nginx · PHP 7.4.30 · MySQL DB · Mailpit · PDF Generator Plugin
 
 ## ✨ Features
 
